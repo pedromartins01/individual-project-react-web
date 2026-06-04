@@ -1,8 +1,9 @@
-import { CardStyle } from "./style"
+import { CardImagem, CardStyle } from "./style"
 
-export const CardAlimentos = ({nome, categoria, preco, unidade}) => {
+export const CardAlimentos = ({nome, categoria, preco, unidade, imagem}) => {
     return (
         <CardStyle>
+            <CardImagem src={imagem} alt={nome} />
             <p>{nome}</p>
             <p>{categoria}</p>
             <p>{preco}</p>

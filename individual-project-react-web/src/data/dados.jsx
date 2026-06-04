@@ -15,7 +15,7 @@ export const produtos = [
         nome: 'Beterraba',
         categoria: 'Legumes, verduras e vegetais',
         preco: 7.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgBeterraba
     },
     {
@@ -23,7 +23,7 @@ export const produtos = [
         nome: 'Batata',
         categoria: 'Legumes, verduras e vegetais',
         preco: 7.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgBatata
     },
     {
@@ -31,7 +31,7 @@ export const produtos = [
         nome: 'Cenoura',
         categoria: 'Legumes, verduras e vegetais',
         preco: 3.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgCenoura
     },
     {
@@ -47,7 +47,7 @@ export const produtos = [
         nome: 'Tomate',
         categoria: 'Legumes, verduras e vegetais',
         preco: 8.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgTomate
     },
     {
@@ -55,7 +55,7 @@ export const produtos = [
         nome: 'Alho',
         categoria: 'Legumes, verduras e vegetais',
         preco: 14.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgAlho
     },
     {
@@ -63,7 +63,7 @@ export const produtos = [
         nome: 'Cebola',
         categoria: 'Legumes, verduras e vegetais',
         preco: 4.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgCebola
     },
     {
@@ -71,7 +71,7 @@ export const produtos = [
         nome: 'Banana',
         categoria: 'Frutas',
         preco: 5.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgBanana
     },
     {
@@ -79,7 +79,7 @@ export const produtos = [
         nome: 'Maçã',
         categoria: 'Frutas',
         preco: 6.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgMaca
     },
     {
@@ -87,7 +87,7 @@ export const produtos = [
         nome: 'Laranja',
         categoria: 'Frutas',
         preco: 7.99,
-        unidade: 'kg',
+        unidade: 'Kg',
         imagem: imgLaranja
     }
 ]

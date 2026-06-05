@@ -5,6 +5,7 @@ export const CardStyle = styled.div`
     width: 200px;
     height: 300px;
     background-color: white;
+    border: 1px solid grey;
     border-radius: 20px;
     box-shadow: 4px 9px 8px rgba(0, 0, 0, 0.2);
 `
@@ -13,6 +14,7 @@ export const CardImagem = styled.img`
     width: 100%;
     height: 50%;
     object-fit: cover;
+    border: 1px solid grey;
     border-radius: 20px 20px 0px 0px;
 `
 export const CardInfo = styled.div`

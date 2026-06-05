@@ -1,11 +1,12 @@
 import styled from 'styled-components'
 
 export const CardStyle = styled.div`
+    position: relative;
     width: 200px;
     height: 300px;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 9px 8px rgba(0, 0, 0, 0.2);
 `
 
 export const CardImagem = styled.img`

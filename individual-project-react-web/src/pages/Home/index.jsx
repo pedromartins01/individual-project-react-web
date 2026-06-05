@@ -1,4 +1,5 @@
 import { CardAlimentos } from "../../components/CardAlimentos"
+import { Cabecalho } from "../../components/Header"
 import { produtos } from "../../data/dados"
 import { HomeStyle } from "./style"
 

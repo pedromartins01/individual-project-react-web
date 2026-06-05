@@ -16,7 +16,7 @@ export const produtos = [
         categoria: 'Legumes, verduras e vegetais',
         preco: 7.99,
         unidade: 'Kg',
-        imagem: imgBeterraba
+        imagem: imgBeterraba 
     },
     {
         id: 2,

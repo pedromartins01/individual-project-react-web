@@ -4,17 +4,17 @@ Aplicação web desenvolvida em React que simula uma loja de hortifruti, exibind
 
 ## 🎯 Funcionalidades
 
-- Listagem de produtos
-- Controle de quantidade por item
-- Página de ofertas da semana
-- Interface simples e responsiva
-- Componentes reutilizáveis
+* Listagem de produtos
+* Controle de quantidade por item
+* Página de ofertas da semana
+* Interface simples e responsiva
+* Componentes reutilizáveis
 
 ## 🛠 Tecnologias
 
-- React
-- Styled Components
-- React Icons
+* React
+* Styled Components
+* React Icons
 
 ## 🚀 Executando o Projeto
 
@@ -31,3 +31,7 @@ Após a execução, acesse o endereço exibido no terminal.
 ## 📚 Objetivo
 
 Projeto desenvolvido para praticar conceitos fundamentais do React, como componentização, props, gerenciamento de estado com `useState` e estilização com Styled Components.
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido na Residência em TIC/Software do Serratec 2026.1 por Pedro Martins.

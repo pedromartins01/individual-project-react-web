@@ -14,9 +14,8 @@ export const BotaoPromocao = styled.button`
     color: black;
     font-size: 18px;
     font-weight: bold;
-    border: none;
+    border: 1px solid grey;
     border-radius: 12px;
     cursor: pointer;
     letter-spacing: 2px;
-
 `

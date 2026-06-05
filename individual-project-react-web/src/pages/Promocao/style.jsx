@@ -15,13 +15,9 @@ export const BotaoVoltar = styled.button`
     color: black;
     font-size: 16px;
     font-weight: bold;
-    border: none;
+    border: 1px solid black;
     border-radius: 10px;
     cursor: pointer;
-
-    &:hover {
-        background-color: #e59200;
-    }
 `
 
 export const CardPromocaoStyle = styled.div`
@@ -29,17 +25,18 @@ export const CardPromocaoStyle = styled.div`
     max-width: 90%;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 4px 9px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+    box-shadow: 9px 9px 9px rgba(0, 0, 0, 0.2);
     padding: 32px;
     display: flex;
     flex-direction: column;
     gap: 16px;
-    border-top: 6px solid #FDA300;
+    border-top: 6px solid red;
 `
 
 export const CardPromocaoTitulo = styled.h2`
     font-size: 24px;
-    color: #FDA300;
+    color: red;
     text-align: center;
 `
 
@@ -47,5 +44,5 @@ export const CardPromocaoTexto = styled.p`
     font-size: 16px;
     line-height: 1.6;
     text-align: center;
-    color: #333;
+    color: black;
 `

@@ -9,7 +9,7 @@ export const Home = ({irParaPromocao}) => {
     return (
         <HomeStyle>
             <BotaoPromocao onClick={irParaPromocao}>
-                ! ANÚNCIO !
+                OFERTA DO DIA
             </BotaoPromocao>
             {produtos.map((produto) => (
                 <CardAlimentos 

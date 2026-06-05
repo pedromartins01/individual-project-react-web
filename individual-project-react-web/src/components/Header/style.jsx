@@ -12,6 +12,7 @@ export const CabecalhoStyle = styled.div`
     font-weight: bold;
     letter-spacing: 4px;
     gap: 12px;
+    border: 1px solid grey;
     
     p {
         margin-top: 4px;
